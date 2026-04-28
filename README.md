@@ -42,5 +42,5 @@ count --
 - طباعة الاسم كاملاً 
 - شرط للتأكد من انه المخزن اصبح فارغ تماماً بعد الانتهاء
 
-![Program Result](output.jpg)
+![Program Result](photo.jpg)
 
